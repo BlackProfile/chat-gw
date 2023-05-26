@@ -21,5 +21,3 @@ function kirimPesan() {
     })
 
 }
-
-</scipt>
